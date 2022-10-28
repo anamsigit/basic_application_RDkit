@@ -1,0 +1,2 @@
+https://code.google.com/archive/p/rdkit/wikis/Tutorials.wiki
+jika tidak berjalan / tidak muncul gambar, cobala di google colab

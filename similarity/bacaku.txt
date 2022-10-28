@@ -1,0 +1,1 @@
+TanimotoSimilarity : tidak menunjukkan kemiripan sama sekali akan menghasilkan nilai 0.0
